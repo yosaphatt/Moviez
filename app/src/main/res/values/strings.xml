@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Moviez</string>
+    <string name="top_rated">Sort By Rating</string>
+    <string name="most_popular">Sort By Popularity</string>
+</resources>
